@@ -1,0 +1,2 @@
+﻿  MyString.cpp
+d:\hoc tap\oop\102160049_16t1_bt02\102160049_16t1_bt02\mystring.cpp(61): error C4700: uninitialized local variable 'n' used
